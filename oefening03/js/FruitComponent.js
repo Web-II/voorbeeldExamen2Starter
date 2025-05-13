@@ -1,4 +1,4 @@
-import FruitRepository from './FR.js';
+import FruitRepository from './FruitRepository.js';
 
 /*
  oefening03 [25 punten]

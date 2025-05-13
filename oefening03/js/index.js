@@ -1,3 +1,3 @@
-import FruitComponent from './FC.js';
+import FruitComponent from './FruitComponent.js';
 
 onload = () => new FruitComponent();
