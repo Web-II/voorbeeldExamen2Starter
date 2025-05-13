@@ -1,6 +1,4 @@
-import Fruit from './Fruit.js';
-
-export default class FruitRepository {
+class FruitRepository {
   #fruit = [];
 
   get fruit() {
