@@ -66,9 +66,3 @@ class FruitComponent {
     });
   }
 }
-
-function init() {
-  new FruitComponent();
-}
-
-window.onload = init;
