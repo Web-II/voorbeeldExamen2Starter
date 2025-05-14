@@ -5,10 +5,9 @@ oefening02 [15 punten]
 Bouw de webpagina dynamisch op met de gegevens uit de array 'brainfacts'.
 
 Module 'brainfacts.js': exporteer de array 'brainfacts' 
-Module 'BrainfactsComponent.js': importeer de array 'brainfacts' 
 'index.html': voeg een script element toe zodat de module 'index.js'
 ingeladen wordt als de index pagina geopend wordt.
-index.js: start de applicatie door een BrainfactsComponent aan te maken wanneer het load-event wordt afgevuurd
+module 'index.js': importeer de array brainfacts en de klass BrainfactsCompontent en start de applicatie door een BrainfactsComponent aan te maken wanneer het load-event wordt afgevuurd
 
 Het bestand 'oefening02.gif' verduidelijkt hoe de webpagina er 
 uiteindelijk zal uitzien en zal reageren op events. 
